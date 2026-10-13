@@ -39,3 +39,13 @@ proxmox-lab/
 │ ├── kvm-vm-startup-troubleshooting.md
 │ └── proxmox-logs-cheatsheet.md
 └── screenshots/
+
+## 📝 Заметки и разборы
+- [`notes/fail2ban-troubleshooting.md`](notes/fail2ban-troubleshooting.md) — Разбор проблемы с запуском `fail2ban`.
+- [`notes/kvm-vm-startup-troubleshooting.md`](notes/kvm-vm-startup-troubleshooting.md) — Проблемы с запуском KVM-виртуалки в VirtualBox.
+- [`notes/proxmox-logs-cheatsheet.md`](notes/proxmox-logs-cheatsheet.md) — Шпаргалка по логам Proxmox и типовым сценариям диагностики.
+
+## 🚀 Что дальше
+- Типовые сценарии диагностики L1/L2
+- Написание скриптов сбора диагностики
+- Кластер Proxmox + PBS + мониторинг
