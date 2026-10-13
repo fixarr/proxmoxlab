@@ -11,9 +11,6 @@
 tail -30 /var/log/pveproxy/access.log
 Что показывает: каждый запрос к веб-интерфейсу и API Proxmox.
 
-Формат строки:
-
-text
 192.168.56.1 - - [13/Oct/2026:14:23:01 +0300] "POST /api2/json/nodes/pve/qemu/101/status/start HTTP/1.1" 200 45
 Поле	Значение
 192.168.56.1	IP клиента
