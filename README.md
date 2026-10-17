@@ -7,7 +7,7 @@ ProxmoxLab
 ## 🏗️ Стенд
 - **Хост:** VirtualBox (NAT + Host-only Adapter)
 - **Гипервизор:** Proxmox VE 9.2.21 (установлен внутри VirtualBox)
-- **LXC-контейнер:** `test-ct` (Debian 12, nginx)
+- **LXC-контейнер:** `CT100` (Debian 12, nginx)
 - **KVM-виртуалка:** `test-vm` (Debian 13.7, CPU `x86-64-v2-AES`, SCSI `VirtIO SCSI single`, сеть `VirtIO`)
 
 ## ✅ Что сделано
